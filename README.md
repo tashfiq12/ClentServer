@@ -1,1 +1,2 @@
 # ClentServer
+This project was a part of our Industrial training project in BIGL.Here we implemented client server communication mainly with the  help of ftp protocol.Here client will send a set of files to server then server will take those files and put the file's name,file size,upload time,last word of the file in the derby database.Then we can log those file.Here  derby database was used as db.
